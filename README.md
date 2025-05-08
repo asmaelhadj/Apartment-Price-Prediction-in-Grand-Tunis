@@ -1,5 +1,5 @@
 # Apartment Sales Price Prediction
-
+Check Presentation: https://www.canva.com/design/DAGepDAWaqs/YWldWXcH1aIpEtWax7tcAw/view?utm_content=DAGepDAWaqs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h19c1936fa7
 ## Project Overview
 
 This project aims to predict apartment sales prices in Tunis (Tunisia) based on key features such as governorate, delegation, area (m²), number of rooms, and other relevant factors. 
@@ -102,6 +102,10 @@ Use the `visualization/` notebooks to analyze and interpret the dataset.
 - **Model Performance:** CatBoost and XGBoost outperformed other models in terms of accuracy and predictive performance.
 - **Feature Importance:** Location, apartment size, and number of rooms were the most influential factors affecting prices.
 
-## Contributions
+## Contributors
+Asma Elhadj
+Ilef Chebil
+Taher Nouira
 
-Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
+
+
